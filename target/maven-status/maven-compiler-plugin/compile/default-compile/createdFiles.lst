@@ -1,1 +1,3 @@
 com/pluralsight/conferencedemo/ConferenceDemoApplication.class
+com/pluralsight/conferencedemo/models/Session.class
+com/pluralsight/conferencedemo/models/Speaker.class
